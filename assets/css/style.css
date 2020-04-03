@@ -62,12 +62,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left {               /* got image use if wanted on left side of context */
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right {              /* got image use if wanted on right side of context */
     float: right;
     margin-left: 25px;
 }
@@ -128,7 +128,7 @@ p {
 }
 
 
-/* Consolidated header 2 values */
+/* Consolidated header 2 values for Search Engine, Online Rep, Social Media */
 .search-engine-optimization h2, .online-reputation-management h2,
 .social-media-marketing h2
 {
